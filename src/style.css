@@ -1,5 +1,18 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+
+.midNum{
+    font-size: 200px;
+}
+
+.topSuite{
+    font-size: 100px;
+}
+
+.botSuite{
+    font-size: 100px;
+    
 }
